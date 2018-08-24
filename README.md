@@ -37,9 +37,9 @@ Durante la instalación es necesario que se seleccionen los siguientes addins:
 *- WPF*
 *- Silverlight*
 Si requieres algún otro puedes seleccionarlo.*
-*===========================================================================*
+*=============================================================================*
 Si instalaste UFT pero no seleccionaste los addins anterior mente seleccionados puedes ejecutar el instalador y seleccionar "Change", para añadir los addins necesarios.
-*===========================================================================*
+*=============================================================================*
 
 ## Desarrollado con
 
